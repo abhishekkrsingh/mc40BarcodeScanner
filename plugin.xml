@@ -17,7 +17,7 @@
 	<!-- android -->
 	<platform name="android">
 		<config-file target="res/xml/config.xml" parent="/*">
-			<feature name="MC40BarcodeScanner" >
+			<feature name="mc40BarcodeScanner" >
 				<param name="android-package" value="com.eyc.plugins.MC40BarcodeScanner"/>
 			</feature>
 		</config-file>
